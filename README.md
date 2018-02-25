@@ -1,3 +1,5 @@
+Google Entities API integration test
+
 Instructions:
 
 - Clone this repository in a PHP/MYSQL environment. I used XAMPP for the development.
