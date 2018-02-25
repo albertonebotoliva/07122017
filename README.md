@@ -1,4 +1,4 @@
-Google Entities API integration test
+Google Cloud Natural Language API integration test
 
 Instructions:
 
